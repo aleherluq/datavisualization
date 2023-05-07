@@ -1,3 +1,9 @@
-# datavisualization
+# Repositorio de ejemplos de visualización de datos
 
-prueba de cambios desde el macx
+Ejemplos de análisis de datos y visualización.
+
+### 1. Pizza Restaurant
+
+Los datos provienen de Maven Analytics.
+Para análisis de datos se usa principalmente pandas.
+Para la representacións se usa plotly
